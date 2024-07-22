@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Common\\EntityBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\Common\\EntityBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C884F4B-729A-4142-BB8E-820BC6912057}|Mapper\\Mapper.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\mapper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C884F4B-729A-4142-BB8E-820BC6912057}|Mapper\\Mapper.csproj|solutionrelative:mapper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\persistence\\configurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\configurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C884F4B-729A-4142-BB8E-820BC6912057}|Mapper\\Mapper.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\mapper\\mapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0C884F4B-729A-4142-BB8E-820BC6912057}|Mapper\\Mapper.csproj|solutionrelative:mapper\\mapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{156308B7-FA6D-44B7-9922-ED181D56D0DC}|Core\\Application\\Application.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\core\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{156308B7-FA6D-44B7-9922-ED181D56D0DC}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6E84C33-CD77-4D76-A5BC-51432263BDCE}|Presentation\\Api\\Api.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\presentation\\api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6E84C33-CD77-4D76-A5BC-51432263BDCE}|Presentation\\Api\\Api.csproj|solutionrelative:presentation\\api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{71314DD5-8AA4-49FB-9EC3-F721AB32CFC7}|Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71314DD5-8AA4-49FB-9EC3-F721AB32CFC7}|Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6E84C33-CD77-4D76-A5BC-51432263BDCE}|Presentation\\Api\\Api.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\presentation\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6E84C33-CD77-4D76-A5BC-51432263BDCE}|Presentation\\Api\\Api.csproj|solutionrelative:presentation\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1894DE8C-8040-41DE-B0A9-D1257ED7AB0E}|Presentation\\Api\\RestAPI.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\presentation\\api\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1894DE8C-8040-41DE-B0A9-D1257ED7AB0E}|Presentation\\Api\\RestAPI.csproj|solutionrelative:presentation\\api\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6E84C33-CD77-4D76-A5BC-51432263BDCE}|Presentation\\Api\\Api.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\presentation\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E84C33-CD77-4D76-A5BC-51432263BDCE}|Presentation\\Api\\Api.csproj|solutionrelative:presentation\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1894DE8C-8040-41DE-B0A9-D1257ED7AB0E}|Presentation\\Api\\Api.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\presentation\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1894DE8C-8040-41DE-B0A9-D1257ED7AB0E}|Presentation\\Api\\Api.csproj|solutionrelative:presentation\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6E84C33-CD77-4D76-A5BC-51432263BDCE}|Presentation\\Api\\Api.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\presentation\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6E84C33-CD77-4D76-A5BC-51432263BDCE}|Presentation\\Api\\Api.csproj|solutionrelative:presentation\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71314DD5-8AA4-49FB-9EC3-F721AB32CFC7}|Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71314DD5-8AA4-49FB-9EC3-F721AB32CFC7}|Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDE2A17-8382-47F0-8201-EC5035804E85}|Mapper\\Mapper.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\mapper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDE2A17-8382-47F0-8201-EC5035804E85}|Mapper\\Mapper.csproj|solutionrelative:mapper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC82F9C8-5939-4C17-BEB2-6F96238AFE04}|Core\\Domain\\Domain.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\core\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC82F9C8-5939-4C17-BEB2-6F96238AFE04}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156308B7-FA6D-44B7-9922-ED181D56D0DC}|Core\\Application\\Application.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\core\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156308B7-FA6D-44B7-9922-ED181D56D0DC}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +55,96 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentation\\Api\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentation\\Api\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Mapper\\Registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mapper\\Registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\appsettings.Production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentation\\Api\\appsettings.Production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1894DE8C-8040-41DE-B0A9-D1257ED7AB0E}|Presentation\\Api\\Api.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\presentation\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1894DE8C-8040-41DE-B0A9-D1257ED7AB0E}|Presentation\\Api\\Api.csproj|solutionrelative:presentation\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156308B7-FA6D-44B7-9922-ED181D56D0DC}|Core\\Application\\Application.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\core\\application\\features\\brands\\commands\\createbrand\\createbrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156308B7-FA6D-44B7-9922-ED181D56D0DC}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\brands\\commands\\createbrand\\createbrandcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\persistence\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\persistence\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\persistence\\migrations\\20231001120645_idendtitydbcontextadded.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\migrations\\20231001120645_idendtitydbcontextadded.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\persistence\\migrations\\20230902125037_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\migrations\\20230902125037_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156308B7-FA6D-44B7-9922-ED181D56D0DC}|Core\\Application\\Application.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\core\\application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156308B7-FA6D-44B7-9922-ED181D56D0DC}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\persistence\\configurations\\detailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02CDF4-0C6C-4921-9AD4-A7E0590CAEBB}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\configurations\\detailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC82F9C8-5939-4C17-BEB2-6F96238AFE04}|Core\\Domain\\Domain.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\core\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC82F9C8-5939-4C17-BEB2-6F96238AFE04}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71314DD5-8AA4-49FB-9EC3-F721AB32CFC7}|Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\infrastructure\\rediscache\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71314DD5-8AA4-49FB-9EC3-F721AB32CFC7}|Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure\\rediscache\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71314DD5-8AA4-49FB-9EC3-F721AB32CFC7}|Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\infrastructure\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71314DD5-8AA4-49FB-9EC3-F721AB32CFC7}|Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71314DD5-8AA4-49FB-9EC3-F721AB32CFC7}|Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\infrastructure\\infrastructure\\tokens\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71314DD5-8AA4-49FB-9EC3-F721AB32CFC7}|Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure\\tokens\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156308B7-FA6D-44B7-9922-ED181D56D0DC}|Core\\Application\\Application.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\core\\application\\features\\auth\\command\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156308B7-FA6D-44B7-9922-ED181D56D0DC}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\auth\\command\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC82F9C8-5939-4C17-BEB2-6F96238AFE04}|Core\\Domain\\Domain.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\core\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC82F9C8-5939-4C17-BEB2-6F96238AFE04}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDE2A17-8382-47F0-8201-EC5035804E85}|Mapper\\Mapper.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\mapper\\mapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFDE2A17-8382-47F0-8201-EC5035804E85}|Mapper\\Mapper.csproj|solutionrelative:mapper\\mapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC82F9C8-5939-4C17-BEB2-6F96238AFE04}|Core\\Domain\\Domain.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\core\\domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC82F9C8-5939-4C17-BEB2-6F96238AFE04}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC82F9C8-5939-4C17-BEB2-6F96238AFE04}|Core\\Domain\\Domain.csproj|c:\\users\\kc\\source\\repos\\onionarchapi\\core\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC82F9C8-5939-4C17-BEB2-6F96238AFE04}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +154,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Application\\Class1.cs",
               "RelativeDocumentMoniker": "Application\\Class1.cs",
@@ -66,18 +170,373 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EntityBase.cs",
-              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Common\\EntityBase.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Common\\EntityBase.cs",
-              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Common\\EntityBase.cs",
-              "RelativeToolTip": "Core\\Domain\\Common\\EntityBase.cs",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Presentation\\Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "Presentation\\Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T19:45:14.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateBrandCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Application\\Features\\Brands\\Commands\\CreateBrand\\CreateBrandCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Brands\\Commands\\CreateBrand\\CreateBrandCommandHandler.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Application\\Features\\Brands\\Commands\\CreateBrand\\CreateBrandCommandHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Brands\\Commands\\CreateBrand\\CreateBrandCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:01:39.583Z"
+              "WhenOpened": "2024-07-22T13:59:53.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Presentation\\Api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:59:25.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Presentation\\Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:58:12.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:58:11.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Registration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Registration.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Registration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:57:29.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20231001120645_IdendtityDbContextAdded.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Migrations\\20231001120645_IdendtityDbContextAdded.Designer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Migrations\\20231001120645_IdendtityDbContextAdded.Designer.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Migrations\\20231001120645_IdendtityDbContextAdded.Designer.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Migrations\\20231001120645_IdendtityDbContextAdded.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:57:26.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20230902125037_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Migrations\\20230902125037_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Migrations\\20230902125037_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Migrations\\20230902125037_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Migrations\\20230902125037_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:57:25.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Persistence.csproj",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Persistence.csproj",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T13:57:24.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Application\\Registration.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Registration.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Application\\Registration.cs",
+              "RelativeToolTip": "Core\\Application\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:57:21.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:56:12.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DetailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Configurations\\DetailConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configurations\\DetailConfiguration.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Configurations\\DetailConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Configurations\\DetailConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:56:09.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:56:03.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Infrastructure\\RedisCache\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\RedisCache\\RedisCacheService.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Infrastructure\\RedisCache\\RedisCacheService.cs",
+              "RelativeToolTip": "Infrastructure\\Infrastructure\\RedisCache\\RedisCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:56:01.238Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BrandConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Configurations\\BrandConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configurations\\BrandConfiguration.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Configurations\\BrandConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Configurations\\BrandConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:53:59.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:53:58.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Mapper\\Registration.cs",
+              "RelativeDocumentMoniker": "Mapper\\Registration.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Mapper\\Registration.cs",
+              "RelativeToolTip": "Mapper\\Registration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:53:00.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Infrastructure\\Registration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Registration.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Infrastructure\\Registration.cs",
+              "RelativeToolTip": "Infrastructure\\Infrastructure\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:52:58.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Infrastructure\\Tokens\\TokenService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Tokens\\TokenService.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Infrastructure\\Tokens\\TokenService.cs",
+              "RelativeToolTip": "Infrastructure\\Infrastructure\\Tokens\\TokenService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwBAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:52:56.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Application\\Features\\Auth\\Command\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Auth\\Command\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Application\\Features\\Auth\\Command\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Auth\\Command\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAWwBMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:51:01.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:50:56.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Mapper.csproj",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Mapper\\Mapper.csproj",
+              "RelativeDocumentMoniker": "Mapper\\Mapper.csproj",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Mapper\\Mapper.csproj",
+              "RelativeToolTip": "Mapper\\Mapper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T13:49:17.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T13:49:12.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Core\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Application\\Application.csproj",
+              "RelativeToolTip": "Core\\Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T13:48:42.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestAPI",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\RestAPI.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Api\\RestAPI.csproj",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\RestAPI.csproj",
+              "RelativeToolTip": "Presentation\\Api\\RestAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T13:48:22.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Class1.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Persistence\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:45:59.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Class1.cs",
+              "RelativeToolTip": "Core\\Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:44:49.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Infrastructure\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:43:32.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Mapper\\Class1.cs",
               "RelativeDocumentMoniker": "Mapper\\Class1.cs",
@@ -85,23 +544,38 @@
               "RelativeToolTip": "Mapper\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:01:18.414Z"
+              "WhenOpened": "2024-07-22T13:43:08.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mapper.csproj",
-              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Mapper\\Mapper.csproj",
-              "RelativeDocumentMoniker": "Mapper\\Mapper.csproj",
-              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Mapper\\Mapper.csproj",
-              "RelativeToolTip": "Mapper\\Mapper.csproj",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-21T09:01:09.871Z"
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Application\\Class1.cs",
+              "RelativeToolTip": "Core\\Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:42:41.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 34,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Common\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Common\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Common\\EntityBase.cs",
+              "RelativeToolTip": "Core\\Domain\\Common\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:01:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Core\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Core\\Domain\\Domain.csproj",
@@ -109,11 +583,12 @@
               "RelativeToolTip": "Core\\Domain\\Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-21T09:01:09.264Z"
+              "WhenOpened": "2024-07-21T09:01:09.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\appsettings.Production.json",
               "RelativeDocumentMoniker": "Presentation\\Api\\appsettings.Production.json",
@@ -121,47 +596,25 @@
               "RelativeToolTip": "Presentation\\Api\\appsettings.Production.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-19T10:38:22.039Z"
+              "WhenOpened": "2024-07-19T10:38:22.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Presentation\\Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\appsettings.Development.json",
-              "RelativeToolTip": "Presentation\\Api\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-19T10:38:17.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\Api\\Program.cs",
               "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\Program.cs",
               "RelativeToolTip": "Presentation\\Api\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T10:38:20.415Z"
+              "WhenOpened": "2024-07-19T10:38:20.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Presentation\\Api\\appsettings.json",
-              "RelativeToolTip": "Presentation\\Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-19T10:38:11.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\OnionArchAPI\\Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Domain\\Class1.cs",
@@ -169,10 +622,6 @@
               "RelativeToolTip": "Domain\\Class1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T11:31:47.541Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
